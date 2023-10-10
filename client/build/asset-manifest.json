@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d32cdb2.css",
-    "main.js": "/static/js/main.e31da505.js",
+    "main.css": "/static/css/main.bce4938c.css",
+    "main.js": "/static/js/main.3268587a.js",
     "static/js/787.f8605816.chunk.js": "/static/js/787.f8605816.chunk.js",
-    "static/media/foggy-landscape-forest-in-the-morning-beautiful-sunrise-mist-cover-mountain-background-at-countryside-winter-free-photo.jpg": "/static/media/foggy-landscape-forest-in-the-morning-beautiful-sunrise-mist-cover-mountain-background-at-countryside-winter-free-photo.2fcde7d1a0ed253b344a.jpg",
+    "static/media/adooee.png": "/static/media/adooee.90e45e4c5cf4aba50310.png",
     "static/media/logo.png": "/static/media/logo.a95f0ef3ba6ccb70ebd8.png",
     "index.html": "/index.html",
-    "main.0d32cdb2.css.map": "/static/css/main.0d32cdb2.css.map",
-    "main.e31da505.js.map": "/static/js/main.e31da505.js.map",
+    "main.bce4938c.css.map": "/static/css/main.bce4938c.css.map",
+    "main.3268587a.js.map": "/static/js/main.3268587a.js.map",
     "787.f8605816.chunk.js.map": "/static/js/787.f8605816.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d32cdb2.css",
-    "static/js/main.e31da505.js"
+    "static/css/main.bce4938c.css",
+    "static/js/main.3268587a.js"
   ]
 }
